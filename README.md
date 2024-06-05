@@ -46,4 +46,4 @@ subham-mohanty-456b491b3
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subham-mohanty-456b491b3)
 
-![Profile Views](https://komarev.com/ghpvc/?username=your-github-username&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=subhamaverick&color=blueviolet&style=flat-square)
