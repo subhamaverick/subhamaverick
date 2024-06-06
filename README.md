@@ -37,11 +37,11 @@ subham-mohanty-456b491b3
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-## 📊 GitHub Stats
+## 📊 GitHub & LeetCode Stats
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=subhamaverick&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=subhamaverick&layout=compact&theme=radical)
-
+![LeetCode Stats](https://leetcode-stats-api.herokuapp.com/subhamaverick)
 
 ## 📫 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/subham-mohanty-456b491b3)
