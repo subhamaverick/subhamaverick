@@ -7,6 +7,8 @@ You can click the Preview link to take a look at your changes.
 # Hi there, I'm Subham Mohanty! 👋
 
 Welcome to my GitHub profile! I'm a passionate developer with a love for creating innovative solutions. Here's a bit about me and my work.
+![:)](https://img.shields.io/badge/This_is_my_personal_time_pass_gig-FF69B4?style=for-the-badge)
+
 
 ## 🚀 About Me
 - 🔭 I’m currently working on a video analytics web application.
